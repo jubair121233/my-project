@@ -1,0 +1,65 @@
+  .hero {
+      background-color: #f9fdfd;
+      padding: 60px 0;
+    }
+     .trusted-logos img {
+
+      height: 40px;
+      margin: 0 10px;
+    }
+        #specialized ul.list-unstyled li {
+      margin-bottom: 0.75rem;
+      font-weight: 500;
+      color: #1a3731;
+      position: relative;
+      padding-left: 1.5rem;
+    }
+.list-unstyled{
+    width: 180;
+height: 67;
+gap: 14.89px;
+
+opacity: 1;
+border-radius: 14.89px;
+border-width: 0.93px;
+padding: 18.61px;
+
+}
+.card{
+  height: auto;
+  width: auto;
+
+
+}
+
+.list-item{
+font-weight: 200;
+font: 1 rem;
+width: 222;
+height: 50;
+gap: 12.89px;
+opacity: 1;
+border-radius: 10px;
+border-width: 0.93px;
+padding: 18.61px;
+
+}
+.section-wrapper{
+  max-width: auto;
+  margin: 50px auto;
+  padding: 30px 40px;
+  border-radius: 12px;
+}
+
+       footer .footer-links ul {
+      list-style: none;
+      padding: 0;
+    }
+    footer .footer-links ul li {
+      margin-bottom: 0.5rem;
+    }
+.footer-border{
+margin-top: 50px;
+border-top: 1px;
+margin-bottom: 60px;
+}
